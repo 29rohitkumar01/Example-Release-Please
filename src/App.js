@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Release please testing 1: fix
+          Release please testing 2: feat
         </p>
         <a
           className="App-link"
