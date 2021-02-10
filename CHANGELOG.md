@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/29rohitkumar01/Example-Release-Please/compare/v1.0.1...v1.1.0) (2021-02-10)
+
+
+### Features
+
+* testing feature - minor version update ([2d32607](https://www.github.com/29rohitkumar01/Example-Release-Please/commit/2d32607398a6efe9b25932fe88bbb9122ace6707))
+
 ### [1.0.1](https://www.github.com/29rohitkumar01/Example-Release-Please/compare/v1.0.0...v1.0.1) (2021-02-10)
 
 
