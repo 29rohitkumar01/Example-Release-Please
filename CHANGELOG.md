@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/29rohitkumar01/Example-Release-Please/compare/v1.0.0...v1.0.1) (2021-02-10)
+
+
+### Bug Fixes
+
+* test1 ([aaba23c](https://www.github.com/29rohitkumar01/Example-Release-Please/commit/aaba23cd209f03b7c9278bfc1089ebc1e69d79fb))
+
 ## 1.0.0 (2021-02-10)
 
 
