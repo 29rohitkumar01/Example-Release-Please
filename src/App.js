@@ -9,6 +9,7 @@ function App() {
         <p>
           Release please testing 1: fix
           Release please testing 2: feat
+          Release please testing 3: feat!
         </p>
         <a
           className="App-link"
